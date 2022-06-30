@@ -48,8 +48,7 @@ cards.push(card3)
 console.log(cards)
 render()
 
-
-
+//helllllllllooooooooooooooooo
 
 
 }
